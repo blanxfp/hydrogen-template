@@ -72,7 +72,7 @@ function RecommendedProducts({
                 >
                   <Image
                     data={product.images.nodes[0]}
-                    aspectRatio="1/1"
+                    // aspectRatio="1/1"
                     sizes="(min-width: 45em) 20vw, 50vw"
                   />
                   <h4>{product.title}</h4>
