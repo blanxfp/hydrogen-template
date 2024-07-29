@@ -136,6 +136,7 @@ aside li {
   position: sticky;
   top: 0;
   z-index: 1;
+  background: pink;
 }
 
 .header-menu-mobile-toggle {
